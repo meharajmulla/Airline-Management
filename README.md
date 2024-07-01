@@ -1,4 +1,4 @@
-# IITGMessRating
+# IITGMessManagement
 
 This is a web application to manange the ratings and reviews system of all the messes of IIT Guwahati. It performs sentiment analysis on the reviews of each mess and generates the monthly mess ratings. The stakeholders of the project are students and mess managers.
 
